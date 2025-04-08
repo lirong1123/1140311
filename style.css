@@ -1,7 +1,7 @@
 /* *代表在index.html內的所有指令<>，都會產生一個框線框起來 */
 *{
     /* 產生框線，為實心線條，粗細2px，黑色 */
-     border: solid 2px yellow;  
+/*      border: solid 2px yellow;   */
 }
 /* 整個視窗畫面設定 */
 html,body{
